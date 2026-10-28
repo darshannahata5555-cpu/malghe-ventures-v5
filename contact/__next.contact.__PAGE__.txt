@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/malghe-ventures-v5/_next/static/chunks/008m2pb50rbbf.js"
+4:"/malghe-ventures-v5/_next/static/chunks/158mm61c1m67i.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/malghe-ventures-v5/_next/static/chunks/079zbelvelr-j.js"
+c:I[22016,["$3","$4","$b"],""]
+d:I[91067,["$3","$4","$b"],"Visit"]
+e:I[97367,["$3","$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4"],"$14"]
+16:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"page-head","data-dark":true,"children":[["$","div",null,{"className":"wrap","children":[["$","nav",null,{"className":"crumbs","aria-label":"Breadcrumb","children":[["$","$Lc",null,{"href":"/","children":"Home"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Contact"}]]}],["$","div",null,{"className":"page-head-grid","children":[["$","h1",null,{"className":"display","data-split":true,"aria-label":"Get in touch","children":[["$","$2","0",{"children":[["$","span","0",{"className":"w","aria-hidden":"true","children":["$","span",null,{"className":"wi","style":{"--i":0},"children":"Get"}]}]," ",["$","span","2",{"className":"w","aria-hidden":"true","children":["$","span",null,{"className":"wi","style":{"--i":1},"children":"in"}]}]," ",null]}],["$","$2","1",{"children":[["$","span","0",{"className":"w","aria-hidden":"true","children":["$","span",null,{"className":"wi em","style":{"--i":2},"children":"touch"}]}]]}]]}],["$","p",null,{"className":"lead","data-reveal":"fade","children":"Call, message or visit our office on the Pune–Nashik Highway in Chakan."}]]}]]}],"$undefined"]}],["$","section",null,{"className":"sec","children":["$","div",null,{"className":"wrap","children":[["$","ul",null,{"className":"contact-cards","data-reveal":"stagger","style":{"margin":0,"padding":0},"children":[["$","li","Call us",{"children":["$","a",null,{"href":"tel:+917796484545","children":[["$","span",null,{"children":"Call us"}],["$","strong",null,{"children":"+91 77964 84545"}]]}]}],["$","li","WhatsApp",{"children":["$","a",null,{"href":"https://wa.me/917796484545?text=Hello%20Malghe%20Ventures%2C%20I%E2%80%99d%20like%20to%20know%20more.","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":"WhatsApp"}],["$","strong",null,{"children":"+91 77964 84545"}]]}]}],["$","li","Email",{"children":["$","a",null,{"href":"mailto:sales@malgheventures.com","children":[["$","span",null,{"children":"Email"}],["$","strong",null,{"children":"sales@malgheventures.com"}]]}]}],["$","li","Office",{"children":["$","a",null,{"href":"https://www.google.com/maps/search/?api=1&query=Vishal%20Capital%2C%20Pune-Nashik%20Highway%2C%20Chakan%2C%20Pune%20410501","target":"_blank","rel":"noopener","children":[["$","span",null,{"children":"Office"}],["$","strong",null,{"children":"Second floor, 203–204, Vishal Capital, Pune–Nashik Highway, Chakan, Pune 410501"}]]}]}]]}],["$","div",null,{"className":"map","data-reveal":"fade","style":{"marginTop":"clamp(48px, 6vw, 80px)"},"children":["$","iframe",null,{"src":"https://www.google.com/maps?q=Vishal+Capital,+Pune-Nashik+Highway,+Chakan,+Pune+410501&output=embed","title":"Malghe Ventures office on Google Maps","loading":"lazy","referrerPolicy":"no-referrer-when-downgrade"}]}]]}]}],["$","$Ld",null,{}]],[["$","script","script-0",{"src":"/malghe-ventures-v5/_next/static/chunks/079zbelvelr-j.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+1:[["children",{"s":"contact","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0d1714"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact | Malghe Ventures"}],["$","meta","1",{"name":"description","content":"Call, message or visit the Malghe Ventures office on the Pune–Nashik Highway in Chakan."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/malghe-ventures-v5/img/icon.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/malghe-ventures-v5/img/icon.png"}],["$","$L16","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"aCnDVpOyD7_3O6V-mA_tx"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"

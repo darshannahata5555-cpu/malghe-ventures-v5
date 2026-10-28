@@ -1,0 +1,10 @@
+:HL["/malghe-ventures-v5/_next/static/chunks/1ih-mexqyqvnt.css","style"]
+:HL["/malghe-ventures-v5/_next/static/media/0264c3c98799c37c-s.p.0fuf3937kiol3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/malghe-ventures-v5/_next/static/media/5151bb70dd75a85b-s.p.1n10e_apdb6ux.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/malghe-ventures-v5/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/malghe-ventures-v5/img/monogram-light.png","image"]
+:HL["/malghe-ventures-v5/img/logo-light.png","image"]
+:HL["/malghe-ventures-v5/img/drafting.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"services","h":64,"c":"$Q2"}]]
+0:{"b":"aCnDVpOyD7_3O6V-mA_tx","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
